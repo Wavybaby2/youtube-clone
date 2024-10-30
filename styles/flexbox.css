@@ -1,0 +1,150 @@
+
+.thumbnail-two {
+  margin-bottom: 7px;
+  position: relative;
+}
+.thumb-nail {
+  width: 300px;
+  
+}
+.chann-el {
+  border-radius: 20px;
+  width: 36px;
+  margin-right: 0px;
+
+ }
+.try-not {
+  display: inline-block;
+  width: 245px;
+  margin-top: 0px;
+  margin-left: 5px;
+  white-space: nowrap;
+ }
+.chan-nel {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+  
+}
+.chall-enge {
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.mill-ion ,
+.bill-ion {
+  font-size: 13px;
+  color: rgb(62, 61, 61);
+  height: 5px;
+}
+.mill-ion {
+  margin-bottom: 4px;
+}
+.multi-plier {
+ 
+}
+.qo-yum {
+  grid-template-columns: 100px 100px 100px;
+}
+ 
+  
+ 
+
+.thumb-nile {
+  width: 300px;
+}
+.try-and {
+  display: inline-block;
+  width: 245px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.oop-dot {
+  display: flex;
+  flex-direction: row;
+  
+
+  
+}
+
+@media (max-width: 600px) {
+  .oop-dot {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.wor-ks {
+  display: flex;
+  flex-direction: row;
+}
+.thumbnail-too {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.chan-el {
+  margin-left: 25px;
+  width: 60px;
+  border-radius: 30px;
+  
+}
+.chan-ne{
+  margin-left: 25px;
+  width: 60px;
+  border-radius: 30px;
+  
+}
+.come-out {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.thumbnail-for {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.chan-nell {
+  margin-left: 25px;
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+.chan-neel {
+  margin-left: 25px;
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+.video-time {
+  font-family: roboto, arial;
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 4px;
+  padding-top: 4px;
+  padding-right: 2px;
+  padding-bottom: 4px;
+  background-color: black;
+  border-radius: 2px;
+  color: white;
+  position: absolute;
+  bottom: 18px;
+  right: 5px;
+
+}
+
+.thumbnail-too,
+.thumbnail-yo,
+.thumbnail-for {
+  position: relative;
+  margin-bottom: 6px;
+}
+.video {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  font-weight: 500;
+ padding: 4px;
+  background-color: black;
+  border-radius: 2px;
+  color: white;
+}
+ 
